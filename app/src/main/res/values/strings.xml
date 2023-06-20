@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biblioteca Campus Jalpa</string>
+    <string name="Isbn">ISBN:</string>
+    <string name="Titulo">Titulo:</string>
+    <string name="numeroDePaginas">no. de Páginas:</string>
+    <string name="editorial">Editorial:</string>
+    <string name="Autores">Autor (es):</string>
+    <string name="Portada">Portada:</string>
+    <string name="agregar">Agregar</string>
+    <string name="guardar">Guardar</string>
+</resources>
